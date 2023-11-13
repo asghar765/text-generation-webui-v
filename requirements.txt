@@ -8,7 +8,7 @@ colorama
 datasets
 einops
 markdown
-numpy==1.24
+numpy==1.26.2
 optimum==1.12.0
 pandas
 peft==0.5.*
